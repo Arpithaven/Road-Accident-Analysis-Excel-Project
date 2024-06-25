@@ -4,7 +4,7 @@
 This project is aimed at developing a Excel Dashboard for generating insights about road accident data in the United Kingdom.
 
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 2024-06-25 131507](https://github.com/Arpithaven/Road-Accident-Analysis-Excel-Project/assets/153346168/3ad31637-6693-43c0-80a6-d6e823ac5c49)
 ## Dashboard Requirements
